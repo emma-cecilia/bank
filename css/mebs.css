@@ -1,0 +1,83 @@
+.h1{
+  background-color: rgb(29,14,14);
+  color: white;
+  width: 150px;
+}
+.h5{
+  background-color: rgb(63,31,31);
+  color: white;
+  width: 200px;
+  height: 40px;
+  margin-left: 150px;
+  margin-top: -49px;
+  line-height: 39px;
+}
+
+.spaceclient{
+  margin-left: 1150px;
+  position: relative;
+  top: -50px;
+}
+/*BANNIERE offre*/
+.offre{
+  margin-left: 280px;
+  background-color: white;
+  width: 700px;
+  height: 450px;
+}
+.p{
+    margin-left: 70px;
+}
+.text-green{
+  font-size: 25px;
+
+  color: rgb(0,128,255);
+}
+.big{
+  font-size: 60px;
+
+  color: rgb(0,128,255);
+}
+.medium{
+  font-size: 25px;
+
+  color: rgb(0,128,255);
+}
+.bbank{
+  width: 100px;
+  padding: 15px 15px;
+  color: white;
+  margin-left: 80px;
+  background-color: rgb(29,14,14);
+}
+.bloc2{
+  margin-left: 380px;
+  margin-top: -250px;
+}
+.fnac{
+  width: 100px;
+  padding: 15px 15px;
+  color: white;
+  margin-left: 440px;
+  margin-top: 33px;
+  background-color: rgb(29,14,14);
+}
+
+#btncmpt{
+  margin-left: 210px;
+  margin-top: 33px;
+}
+.blc1{
+  margin-left: 200px;
+  margin-top: 20px;
+
+}
+.blc2{
+  margin-left: 800px;
+  margin-top: -160px;
+
+}
+.moment{
+  padding-top: 30px;
+  margin-left: 250px;
+}
